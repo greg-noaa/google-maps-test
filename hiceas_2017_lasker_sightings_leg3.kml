@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>hiceas_2017_lasker_sightings_leg3.kml</name>
+	<open>1</open>
+	<Style id="s_wht-pushpin">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="64" y="64" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_wht-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_wht-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_wht-pushpin_hl">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="64" y="64" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>11/08/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.044,21.384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/08/2017</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.966,21.541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/08/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.94,21.536,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/08/2017</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.94,21.536,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.766,21.849,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.193,21.921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.372,21.784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.825,21.688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.082,21.731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/06/2017</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.771,22.02,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/06/2017</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.741,22.009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/05/2017</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.807,22.414,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/05/2017</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.114,22.493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/04/2017</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.175,22.424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/03/2017</name>
+		<description>Pygmy sperm whale (Kogia breviceps)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.919,23.595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/03/2017</name>
+		<description>Unidentified small whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.449,23.487,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/03/2017</name>
+		<description>Common minke whale (Balaenoptera acutorostrata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.773,23.316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/02/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.786,23.867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/02/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.742,23.84,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.643,26.525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/30/2017</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.479,28.284,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/30/2017</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.468,28.202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/30/2017</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.205,28.152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/28/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.609,27.73,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/28/2017</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.658,27.759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/28/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.754,27.824,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/28/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.93,27.87000000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/28/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.204,27.886,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/28/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.609,27.73,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/27/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.471,26.662,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/27/2017</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.456,26.65,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/27/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.382,26.641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/27/2017</name>
+		<description>Unidentified Kogia - dwarf or pygmy sperm whale (Kogia sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.124,26.799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/27/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.435,26.63,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/27/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.402,26.645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/26/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.763,27.522,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/25/2017</name>
+		<description>Unidentified small whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.243,26.103,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/25/2017</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.751,26.222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/25/2017</name>
+		<description>Humpback whale (Megaptera novaeangliae)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.744,26.22,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2017</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.675,25.179,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.19,25.031,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.131,25.05,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2017</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.396,24.93,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2017</name>
+		<description>Fraser&apos;s dolphin (Lagenodelphis hosei)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.605,24.922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.469,25.155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.369,25.148,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

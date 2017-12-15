@@ -1,0 +1,3562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>hiceas_2010_cetacean_sightings_full.kml</name>
+	<Style id="s_wht-pushpin">
+		<IconStyle>
+			<color>ff7faa00</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="64" y="64" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_wht-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_wht-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_wht-pushpin_hl">
+		<IconStyle>
+			<color>ff7faa00</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="64" y="64" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>12/10/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-121.113,31.57100000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/10/2010</name>
+		<description>Short-beaked common dolphin (Delphinus delphis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-121.232,31.556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/09/2010</name>
+		<description>Killer whale (Orcinus orca)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-125.538,30.406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/09/2010</name>
+		<description>Short-beaked common dolphin (Delphinus delphis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-125.261,30.46900000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/08/2010</name>
+		<description>Fin whale (Balaenoptera physalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-128.44,29.636,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/08/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-129.043,29.426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/08/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-129.219,29.376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/08/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-129.37,29.331,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/07/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-133.045,28.291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/07/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-133.942,28,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/07/2010</name>
+		<description>Humpback whale (Megaptera novaeangliae)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-134.205,27.982,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/07/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-133.045,28.291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/06/2010</name>
+		<description>Fin whale (Balaenoptera physalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-137.523,27.156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/06/2010</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-137.523,27.156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/05/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-141.075,26.198,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/04/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-145.197,24.782,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/04/2010</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-145.319,24.792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/01/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.636,22.122,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>12/01/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.047,21.996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/26/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.79,22.145,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/26/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.856,22.061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/26/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.811,22.116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/25/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.335,22.933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/25/2010</name>
+		<description>Fin whale (Balaenoptera physalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.159,22.843,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/24/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.106,23.276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/24/2010</name>
+		<description>Fin whale (Balaenoptera physalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.106,23.276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/24/2010</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.106,23.276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/23/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.727,24.058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/23/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.679,24.051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/23/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.679,24.051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/23/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.414,23.999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/23/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.352,23.963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/23/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.58,24.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/22/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.431,25.267,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/22/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.384,25.191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/21/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.573,25.787,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/21/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.989,25.883,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/20/2010</name>
+		<description>Sei whale (Balaenoptera borealis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.922,26.571,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/20/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.002,26.61,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/19/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.175,27.926,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/19/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.716,27.756,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/19/2010</name>
+		<description>Humpback whale (Megaptera novaeangliae)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.77,27.731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/19/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.949,27.725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/18/2010</name>
+		<description>Gray&apos;s spinner dolphin (Stenella longirostris longirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.393,28.184,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/15/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.716,23.872,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/12/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.06,23.016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/12/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.088,23.285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/12/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.186,23.969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/12/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.057,22.922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/12/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.057,22.909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/12/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.063,23.096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/11/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.624,25.961,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/11/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.279,25.873,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/10/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-181.011,26.739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/10/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-181.139,26.803,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/09/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.642,25.65,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/08/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.672,24.923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.328,24.052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/07/2010</name>
+		<description>Sei whale (Balaenoptera borealis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.609,23.881,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/05/2010</name>
+		<description>Fraser&apos;s dolphin (Lagenodelphis hosei)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.109,24.867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/05/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.109,24.867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/05/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.109,24.867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/01/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.437,21.086,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/01/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.566,21.119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>11/01/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.065,21.257,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.509,20.342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.41,20.316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.509,20.342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2010</name>
+		<description>Unidentified whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.894,20.462,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.147,20.505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/31/2010</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.355,20.566,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/30/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.406,20.593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/30/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.583,20.403,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/29/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.911,20.973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/29/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.886,20.967,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/29/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.108,21.22,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/26/2010</name>
+		<description>Unidentified large dolphin (Pseudorca, Orcinus,or Globicephala) (unid. large delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.076,21.997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/26/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.279,22.05,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/26/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.285,22.057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/25/2010</name>
+		<description>Fraser&apos;s dolphin (Lagenodelphis hosei)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.653,23.453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/24/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.299,22.239,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/24/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.176,24.314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/24/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.794,22.12,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/24/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.691,23.953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/24/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.818,24.267,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.79,23.426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.2,23.529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.114,22.751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.978,22.402,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.107,22.755,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.036,22.71,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.036,22.71,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.021,22.687,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.015,22.686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.208,22.434,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/23/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.271,22.485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.068,23.19,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.987,23.209,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.718,23.243,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.625,23.02,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.629,22.933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.454,22.771,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.489,22.852,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.496,22.85600000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.68,22.901,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Unidentified whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.703,22.902,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/22/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.062,23.182,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Melon-headed whale (Peponocephala electra)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.386,21.279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.984,23.356,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.386,21.279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.077,23.177,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.946,23.34,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.772,23.297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.525,23.19,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.386,21.279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.299,23.171,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.525,23.19,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/21/2010</name>
+		<description>Fraser&apos;s dolphin (Lagenodelphis hosei)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.386,21.279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-163.077,23.361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.248,23.439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.784,23.383,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2010</name>
+		<description>Unidentified Kogia - dwarf or pygmy sperm whale (Kogia sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-163.144,23.321,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/20/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.376,20.773,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.797,19.874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.721,19.862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.685,19.837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.651,19.829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.796,23.786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Dwarf sperm whale (Kogia sima)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.746,23.812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.704,23.837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.625,23.863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.616,23.864,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.626,23.855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/19/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.241,23.517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.533,23.911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.533,23.911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.533,23.911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.521,23.927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.487,23.983,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.546,24.018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.546,24.018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.572,24.019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.622,24.02,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.649,24.139,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.917,24.18,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.554,18.747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/18/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.546,24.018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/17/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.998,19.153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/17/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.387,19.25,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/17/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.255,24.053,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/17/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.567,24.159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/17/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.113,24.053,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/16/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.385,24.541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/16/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.413,24.639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/16/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.369,24.719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/16/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.413,24.639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.607,17.238,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.767,25.551,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.758,25.528,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.697,25.361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.773,24.706,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Fraser&apos;s dolphin (Lagenodelphis hosei)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.854,24.201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.533,16.995,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.019,17.113,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/15/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.018,17.091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.904,16.378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Unidentified large dolphin (Pseudorca, Orcinus,or Globicephala) (unid. large delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.904,16.378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.478,25.555,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.767,25.572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.159,25.548,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Common minke whale (Balaenoptera acutorostrata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.261,25.517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.352,25.505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/14/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.454,25.496,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.075,15.723,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.369,25.76000000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.048,25.466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.037,25.426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.895,25.444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.574,25.668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/13/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.47,25.611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/12/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.397,25.66,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/12/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.342,25.69,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/12/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.326,25.572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/12/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.399,25.719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/11/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.444,25.706,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/09/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.666,25.344,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/09/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.616,25.345,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/09/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-153.93,16.828,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/09/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.066,25.408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/09/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.179,25.407,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.441,24.936,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-152.633,17.261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.717,25.139,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.593,25.148,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.586,25.142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.376,24.717,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.321,24.561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/08/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.31,24.548,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/07/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.606,24.401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/07/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.197,24.337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/07/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.605,24.392,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/07/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.622,24.515,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/06/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.604,24.072,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/06/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.025,19.905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/05/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.329,23.659,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/05/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.21,23.249,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/05/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.092,23.613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/04/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-163.083,23.163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/03/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.644,21.621,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/03/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.629,21.573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/03/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.925,21.761,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/03/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.114,22.088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/03/2010</name>
+		<description>Gray&apos;s spinner dolphin (Stenella longirostris longirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.118,22.084,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/03/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.948,22.028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/02/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.54,20.7,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/02/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.957,21.043,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.268,19.73,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.323,19.537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.447,19.518,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.307,19.528,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.272,19.731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.767,19.846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.628,19.557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.201,19.752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>10/01/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.632,19.83,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.495,18.514,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Unidentified large dolphin (Pseudorca, Orcinus,or Globicephala) (unid. large delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.503,18.516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.681,18.564,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.776,18.837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Pygmy killer whale (Feresa attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.192,18.692,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Pygmy killer whale (Feresa attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.749,18.836,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/30/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.82,18.582,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.028,19.605,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.125,19.804,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.128,19.834,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.137,19.848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.197,19.861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.591,19.956,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.021,17.632,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.823,20.014,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.336,17.432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.36,17.48,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.856,17.563,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.171,17.668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.239,17.678,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/29/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.693,19.962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/28/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.514,20.189,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/28/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.143,20.095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/28/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.007,17.868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/28/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.801,18.112,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/28/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.678,18.046,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/28/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.455,18.22,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/27/2010</name>
+		<description>Gray&apos;s spinner dolphin (Stenella longirostris longirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.079,22.095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/27/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.429,19.305,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/27/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.023,18.881,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/27/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.301,19.225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/27/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.361,19.298,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/26/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-163.316,23.239,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/26/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.811,20.581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/26/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-162.67,23.051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/26/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-163.211,23.205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/25/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.763,24.618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/25/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.714,24.362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/25/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.557,24.545,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/25/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.673,24.538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.66,25.32,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.501,25.288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.486,25.277,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.997,25.201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.466,25.166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.45,25.192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.249,25.219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/24/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.463,25.202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/23/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.226,24.712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/23/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.609,24.534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/23/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.609,24.534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/23/2010</name>
+		<description>Pygmy killer whale (Feresa attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.095,24.674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/21/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.234,26.098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/21/2010</name>
+		<description>Pygmy killer whale (Feresa attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.735,21.845,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/21/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.283,26.164,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/20/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.21,26.024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/20/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.232,26.099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/20/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.309,21.738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/20/2010</name>
+		<description>Pygmy killer whale (Feresa attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.686,26.055,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/20/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.048,21.674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/20/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.695,26.064,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/19/2010</name>
+		<description>Blainville&apos;s beaked whale (Mesoplodon densirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.131,26.592,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/19/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.657,26.481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/19/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.806,21.364,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/19/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.5,21.028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/19/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.469,21.033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/18/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.368,27.876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/18/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.634,22.136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/18/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.387,27.639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/18/2010</name>
+		<description>Unidentified small whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.03,27.801,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Gray&apos;s spinner dolphin (Stenella longirostris longirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.428,28.404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.198,28.367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.233,28.238,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.508,23.373,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.724,23.243,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.429,23.36,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/17/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.619,23.167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.33,28.333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.324,28.327,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.292,28.304,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.303,28.314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.691,23.984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.173,28.191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.167,28.18,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.23,28.163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/16/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.241,28.252,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/15/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.115,27.114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/15/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.251,27.143,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/15/2010</name>
+		<description>Killer whale (Orcinus orca)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.004,27.32100000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/15/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.48,26.959,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/15/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.655,26.997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/15/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.856,27.081,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Blainville&apos;s beaked whale (Mesoplodon densirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.481,27.747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.555,27.728,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.595,27.711,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.772,28.057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.133,27.889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.805,28.054,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/14/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.06,27.724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.612,27.917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.625,27.958,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.628,28.038,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.743,28.06,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.519,26.783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.939,28.047,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.961,28.076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Unidentified large dolphin (Pseudorca, Orcinus,or Globicephala) (unid. large delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.048,28.036,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.114,27.942,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/13/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.771,28.033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/12/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.165,26.966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/12/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.369,27.254,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/12/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.494,27.04500000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-168.893,26.176,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.409,26.543,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.621,28.475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.349,28.4,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.424,28.186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.015,28.333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.424,28.186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.424,28.186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/11/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-171.271,28.386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/10/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.27,25.539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/10/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.759,29.533,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/10/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.843,29.543,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/10/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.216,29.66,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/09/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-164.067,25.002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/09/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.114,30.102,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/09/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.194,30.093,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/08/2010</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-180.092,31.233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/08/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-180.049,31.222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/08/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.2,30.798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/08/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.157,30.993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/08/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.506,30.868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/08/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.841,31.22,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.054,21.194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.501,21.251,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.967,21.365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.005,21.378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.046,21.367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.071,21.384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.62,31.686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.115,31.328,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.178,31.341,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-177.197,31.345,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.334,31.604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-178.58,31.666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/07/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.932,31.28,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.939,21.047,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.558,30.483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.922,30.57,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.091,30.639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.228,30.686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-175.044,30.844,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.31,30.701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.485,30.669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.612,30.717,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.638,30.725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/06/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.31,30.701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/05/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-163.201,21.611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/05/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.554,28.993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/05/2010</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.83,29.038,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/05/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-174.88,29.203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.185,23.381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.896,29.735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-166.443,23.237,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.096,22.9,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.377,22.88800000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-165.428,22.924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.439,30.301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.714,30.37900000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.646,30.33,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-181.095,30.703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-160.559,21.777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.287,21.943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-161.597,22.021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-180.15,29.731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.561,29.541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.557,29.654,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.561,29.631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2010</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-179.021,29.415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/01/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.741,28.872,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/01/2010</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.974,28.92,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/01/2010</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-176.948,28.869,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/31/2010</name>
+		<description>Unidentified Mesoplodon (Mesoplodon sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-172.97,27.975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/31/2010</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-173.399,28.079,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/30/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-170.23,27.316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/30/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-169.401,27.192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/29/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.875,26.731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/29/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.81,26.74,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/29/2010</name>
+		<description>Unidentified whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-167.015,26.535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/27/2010</name>
+		<description>Bryde&apos;s whale (Balaenoptera edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.855,24.78300000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/24/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.181,21.358,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2010</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.57,20.26,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-152.91,19.002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/17/2010</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-153.078,19.882,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/14/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-152.816,22.28,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/14/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-152.896,22.238,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/14/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.226,22.573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/13/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.895,23.584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/13/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-155.162,23.615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/08/2010</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-134.751,28.189,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/08/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-134.9,28.155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/08/2010</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-134.158,28.329,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/06/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-124.533,30.799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/06/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-124.727,30.736,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/06/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-124.965,30.668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.21,31.881,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Short-beaked common dolphin (Delphinus delphis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.428,31.817,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.444,31.813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Short-beaked common dolphin (Delphinus delphis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.51,31.799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Short-beaked common dolphin (Delphinus delphis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.68,31.703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-121.918,31.32700000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/05/2010</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.566,31.78300000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/04/2010</name>
+		<description>Bottlenose dolphin (Tursiops truncatus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-117.352,32.571,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/04/2010</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-117.352,32.571,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

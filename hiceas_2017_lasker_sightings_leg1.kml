@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>hiceas_2017_lasker_sightings_leg1.kml</name>
+	<Style id="s_wht-pushpin_hl">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="64" y="64" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_wht-pushpin">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="64" y="64" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_wht-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_wht-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.623,19.761,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.048,19.868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.711,19.747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.365,19.952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.395,20.009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.462,19.988,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.442,20.001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Longman&apos;s beaked whale (Indopacetus pacificus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.336,19.941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-157.892,19.829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/04/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.149,19.895,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/03/2017</name>
+		<description>Rough-toothed dolphin (Steno bredanensis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.807,18.736,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.386,19.422,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2017</name>
+		<description>Pygmy killer whale (Feresa attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.443,19.47,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-158.727,19.233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.711,19.485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/02/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.535,19.461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/01/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.163,18.551,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/01/2017</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.16,18.553,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>09/01/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-159.171,18.556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/31/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.078,19.494,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/31/2017</name>
+		<description>Unidentified small dolphin (Delphinus, Lagenodelphis,or Stenella) (unid. small delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.258,19.168,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/29/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-152.647,17.652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.06,19,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.016,19.612,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Unidentified small whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.041,19.154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.065,19.336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.056,19.396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Unidentified medium dolphin (Feresa, Grampus, Peponocephala, Steno or Tursiops) (unid. medium delphinid)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.043,19.31,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Short-finned pilot whale (Globicephala macrorhynchus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.03,19.56,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Cuvier&apos;s beaked whale (Ziphius cavirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.049,19.168,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Pantropical spotted dolphin (Stenella attenuata)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.047,19.301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/28/2017</name>
+		<description>Blainville&apos;s beaked whale (Mesoplodon densirostris)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-156.023,19.6,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/27/2017</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-154.756,19.646,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/26/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-151.618,19.923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/24/2017</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-144.71,22.115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/21/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-133.807,27.258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/21/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-134.2,27.092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/20/2017</name>
+		<description>False killer whale (Pseudorca crassidens)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-129.344,29.016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2017</name>
+		<description>Sperm whale (Physeter macrocephalus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-126.073,30.178,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-125.444,30.398,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-125.186,30.47,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-124.743,30.612,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2017</name>
+		<description>Unidentified large whale</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-125.032,30.522,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/19/2017</name>
+		<description>Striped dolphin (Stenella coeruleoalba)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-125.381,30.40800000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Short-beaked common dolphin (Delphinus delphis)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-121.097,31.735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Rorqual identified as a sei or Bryde&apos;s whale (Balaenoptera borealis/edeni)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.612,31.874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Unidentified cetacean</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-122.3,31.377,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Unidentified dolphin or porpoise</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-121.752,31.542,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Unidentified beaked whale (Ziphiid whale)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-122.279,31.382,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Risso&apos;s dolphin (Grampus griseus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.114,32.018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.341,31.952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Unidentified rorqual (Balaenoptera sp.)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.698,31.849,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>08/18/2017</name>
+		<description>Blue whale (Balaenoptera musculus)</description>
+		<styleUrl>#m_wht-pushpin</styleUrl>
+		<Point>
+			<coordinates>-120.625,31.871,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

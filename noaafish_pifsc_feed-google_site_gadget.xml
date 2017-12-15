@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs scrolling="true" height="500" width="100%"/>
+<Content type="html">
+<![CDATA[
+<a class="twitter-timeline" href="https://twitter.com/NOAAFish_PIFSC">Tweets by NOAAFish_PIFSC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]>
+</Content>
+</Module>
